@@ -20,3 +20,4 @@
 // 30
 // 110
 //
+// en este codigo no existe una funcion ya que no devuelve un valor, por eso esto es un procedimiento.
